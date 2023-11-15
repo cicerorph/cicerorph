@@ -1,4 +1,12 @@
-### Hi there 👋
+### Opa, eae sou o Cicero 👋
+
+## Dicas sobre mim:
+- 🔭 Atualmente estou trabalhando no Sistema de Bots da Nyex Gaming
+- 📫 Como falar comigo: contact@mubi.tech
+- 😄 Pronouns: Ele (Hétero para sempre)
+
+Que deus te abençoe! Boa Programação! 👾
+
 
 <!--
 **cicerorph/cicerorph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
