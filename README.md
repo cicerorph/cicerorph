@@ -1,11 +1,11 @@
 ### Opa, eae sou o Cicero 👋
 
 ## Dicas sobre mim:
-- 🔭 Atualmente estou trabalhando no Sistema de Bots da Nyex Gaming
-- 📫 Como falar comigo: contact@mubi.tech
+- 🔭 Atualmente estou trabalhando no Sistema de Bots da Nyex Gaming, Galaxy Hosting, Penguin Mod, Oda Craft.
+- 📫 Como falar comigo: *Desativado por enquanto...*
 - 😄 Pronouns: Ele (Hétero para sempre)
 
-Que deus te abençoe! Boa Programação! 👾
+Que Deus te abençoe! Boa Programação! 👾
 
 
 <!--
