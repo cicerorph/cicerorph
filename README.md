@@ -1,24 +1,8 @@
 ### Opa, eae sou o Cicero 👋
 
 ## Dicas sobre mim:
-- 🔭 Atualmente estou trabalhando no Sistema de Bots da Nyex Gaming, Galaxy Hosting, Penguin Mod, Oda Craft.
-- 📫 Como falar comigo: *Desativado por enquanto...*
+- 🔭 Atualmente estou fazendo o Bot do PenguinMod, Uma API para IA se graça, ZukiJourney, FreeGPT Bot
+- 📫 Como falar comigo: *Nada*
 - 😄 Pronouns: Ele (Hétero para sempre)
 
 Que Deus te abençoe! Boa Programação! 👾
-
-
-<!--
-**cicerorph/cicerorph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
