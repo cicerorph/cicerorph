@@ -1,7 +1,7 @@
 ### Opa, eae sou o Cicero 👋
 
 ## Dicas sobre mim:
-- 🔭 Atualmente estou fazendo o Bot do PenguinMod, Uma API para IA se graça, ZukiJourney, FreeGPT Bot
+- 🔭 Atualmente estou fazendo o MubiTubi, YeetYourFiles e PenguinAI
 - 📫 Como falar comigo: *Nada*
 - 😄 Pronouns: Ele (Hétero para sempre)
 
