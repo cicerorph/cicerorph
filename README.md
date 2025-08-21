@@ -21,10 +21,10 @@ const mubilop = {
             python: ["Flask"],
             php: ["Laravel"]
         },
-        mcStuff: {
+        mcPluginsDev {
             paper: true
             velocity: true
-        }
+        },
         databases: ["MongoDB", "MySQL", "Redis"],
         devOps: ["AWS", "Docker", "Cloudflare Workers"],
         tools: ["Git", "VS Code", "Arduino"]
