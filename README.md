@@ -9,7 +9,7 @@
 ```javascript
 const mubilop = {
     location: "Brazil 🇧🇷",
-    code: ["JavaScript", "Python", "PHP", "Java"],
+    code: ["TypeScript", "JavaScript", "Python", "Java"],
     askMeAbout: ["web dev", "backend", "cloud computing", "discord bots"],
     technologies: {
         frontEnd: {
@@ -18,19 +18,12 @@ const mubilop = {
         },
         backEnd: {
             js: ["Node.js", "Express"],
-            python: ["Flask"],
-            php: ["Laravel"]
-        },
-        mcPluginsDev {
-            paper: true
-            velocity: true
+            python: ["Flask"]
         },
         databases: ["MongoDB", "MySQL", "Redis"],
-        devOps: ["AWS", "Docker", "Cloudflare Workers"],
+        devOps: ["AWS", "Docker"],
         tools: ["Git", "VS Code", "Arduino"]
-    },
-    currentFocus: "Learning Vue.js and Vite ⚡",
-    funFact: "I debug code better with music 🎵"
+    }
 };
 ```
 
@@ -50,7 +43,7 @@ const mubilop = {
 
 ### **Backend Development**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,gradle" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,express,gradle" alt="Backend" />
 </div>
 
 ### **Databases & Cloud**
@@ -88,16 +81,6 @@ const mubilop = {
 
 ---
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31nkkrhcxoqvsqlkaqnnad7pfjo4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nkkrhcxoqvsqlkaqnnad7pfjo4&count=5&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
-
----
-
 ## 🎯 Current Goals
 
 - 🌱 Mastering **Vue.js** and **Vite** for modern frontend development
@@ -106,7 +89,7 @@ const mubilop = {
 
 ---
 
-## 🤝 What am i up about?
+## 🤝 What am I up about?
 
 <div align="center">
   
