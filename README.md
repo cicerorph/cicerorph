@@ -4,31 +4,6 @@
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const mubilop = {
-    location: "Brazil 🇧🇷",
-    code: ["TypeScript", "JavaScript", "Python", "Java"],
-    askMeAbout: ["web dev", "backend", "cloud computing", "discord bots"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue.js", "jQuery"],
-            css: ["Tailwind CSS", "shadcn-ui", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Flask"]
-        },
-        databases: ["MongoDB", "MySQL", "Redis"],
-        devOps: ["AWS", "Docker"],
-        tools: ["Git", "VS Code", "Arduino"]
-    }
-};
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Languages**
